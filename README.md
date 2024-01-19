@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Shubham Longia and I'm a software engineer (Frontend) from Chandigarh, India</h2>
 
 ###
@@ -56,20 +55,22 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@shubhamlongia6752" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/longiashubham?igsh=bTY1ajNxeGNzMzcz&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://in.linkedin.com/in/shubham-longia-226857200" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <p align="left">- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)<br><br>- 🌱 I’m currently learning **DSA in JavaScript**<br><br>- 💬 Ask me about **React.js, Next.js, JavaScript, Css**<br><br>- 📫 How to reach me **longia.shubham.44@gmail.com**<br><br>- ⚡ Fun fact **I once coded an entire project while sipping on a cup of coffee and listening to my favorite tunes on loop. The result? Bug-free code and a new appreciation for caffeine-fueled coding sessions!☕🎧**</p>
 
-###
-- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)
+###- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)
 
 - 🌱 I’m currently learning **DSA in JavaScript**
 
