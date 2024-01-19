@@ -67,9 +67,6 @@
 </div>
 
 ###
-
-<p align="left">- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)<br><br>- 🌱 I’m currently learning **DSA in JavaScript**<br><br>- 💬 Ask me about **React.js, Next.js, JavaScript, Css**<br><br>- 📫 How to reach me **longia.shubham.44@gmail.com**<br><br>- ⚡ Fun fact **I once coded an entire project while sipping on a cup of coffee and listening to my favorite tunes on loop. The result? Bug-free code and a new appreciation for caffeine-fueled coding sessions!☕🎧**</p>
-
 ###- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)
 
 - 🌱 I’m currently learning **DSA in JavaScript**
