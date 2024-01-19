@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Shubham Longia and I'm a software engineer (Frontend) from Chandigarh, India</h2>
+<h2 align="center">Hi 👋!</h2>
+<h2 align="center">My name is Shubham Longia and I'm a software engineer (Frontend) from Chandigarh, India</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
