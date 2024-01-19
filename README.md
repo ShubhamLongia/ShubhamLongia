@@ -46,11 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@shubhamlongia6752" target="_blank">
@@ -64,8 +62,8 @@
   </a>
 </div>
 
-###
-###- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)
+
+- 🔭 I’m currently working on [Marell Boats](https://marell-boats.netlify.app/en)
 
 - 🌱 I’m currently learning **DSA in JavaScript**
 
