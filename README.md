@@ -49,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-
 <img align="right" height="150" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 
 
